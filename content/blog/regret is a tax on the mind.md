@@ -24,6 +24,3 @@ You _will_ have to make a choice. there will always be a [tradeoff](https://n
 I'm using software development as an example here, but this especially applies to software *choice*. Especially if you are in the tech space — you know how particular we can be about our software. Vim vs emacs vs neovim vs vscode, obsidian vs notion vs all the other note-taking apps, bash vs fish vs zsh, ubuntu vs arch vs fedora vs nixos vs all the other distros — I think you get the point. 
 
 And not just software development nor software choice but also *lifestyle*. Not everything has to be a DIY project, not everything has to be a non-trivial optimized decision. Sometimes you can do things inefficiently just because, and that's okay. I think we lose some essential part of ourselves the moment we get deeply immersed in technology. We cease to become normies and perhaps unconsciously get the wrong ideas about how decisions should be made, scrutinizing and being skeptical of anything that comes our way. 
-
-### ?
-This is why I think suckless fails as a philosophy overall, because you cannot preemptively design everything from the get-go. You simply don't know what you don't know. 
