@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{# for the individual blog pages themselves. as usual, extends the foundational base.html file. #}
+
+{% block content %}
+<h1 class="title">
+  {{ page.title }}
+</h1>
+<p class="subtitle"><strong>{{ page.date | date(format="%B %e, %Y") }}</strong></p> <!-- format date to be reader-friendly-->
+<!-- you can add %A for %B to include day of the week. -->
+{{ page.content | safe }}
+{% endblock content %}

@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+<div>
+  {{ section.content | safe }}
+</div>
+<ul class="blog">
+  {% for page in paginator.pages %}
+  <li>
+    <article>
+      <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+      {% if page.date %}
+      <p>published: <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">{{ page.date | date(format="%Y-%m-%d") }}</time></p>
+      {% endif %}
+      {% if page.taxonomies.tags %}
+      <p class="tags">
+      tags: [
+      {% for tag in page.taxonomies.tags %}
+      <a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">#{{ tag }}</a>{% if not loop.last %}, {% endif %}
+      {% endfor %}
+      ]
+      {% endif %}
+      {% if page.description %}
+      <p>{{ page.description }}</p>
+      {% endif %}
+    </article>
+  </li>
+  {% endfor %}
+</ul>
+
+<nav>
+  {% if paginator.previous %}
+  <a href="{{ paginator.previous }}">&lt; Prev</a>
+  {% endif %}
+  <span>Page {{ paginator.current_index }} of {{ paginator.number_pagers }}</span>
+  {% if paginator.next %}
+  <a href="{{ paginator.next }}">Next &gt;</a>
+  {% endif %}
+</nav>
+{{ super() }}
+{% endblock content %}

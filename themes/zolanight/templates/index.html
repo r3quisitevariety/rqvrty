@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} - {{ config.title }}{% endblock title %}
+
+{% block content %}
+<section>
+  {% if section.title %}
+  <h1>{{ section.title }}</h1>
+  {% endif %}
+  {% if section.date %}
+  <p>Published on: <time>{{ section.date | date(format="%Y-%m-%d") }}</time></p>
+  {% endif %}
+  <div>
+    {{ section.content | safe }}
+  </div>
+</section>
+
+{% if config.extra.home_list_latest_blog_posts | default(value=true) %}
+<h2>Latest Posts</h2>
+{% set blog_section = get_section(path="blog/_index.md") %}
+{% if blog_section %}
+<ul>
+  {% for page in blog_section.pages | slice(end=5) %}
+  <li>
+    <article>
+      {% if page.date %}
+      <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">{{ page.date | date(format="%Y-%m-%d") }}</time>
+      {% endif %}
+      <a href="{{ page.permalink }}">{{ page.title }}</a>
+    </article>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>No blog posts found.</p>
+{% endif %}
+{% endif %}
+{{ super() }}
+{% endblock content %}
