@@ -1,5 +1,5 @@
 +++
-title = "whoami????"
+title = "about me"
 +++
 
-WIP
+hey there. 

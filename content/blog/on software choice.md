@@ -1,5 +1,5 @@
 +++
-title = "Regret is a Tax on the Mind"
+title = "on software choice"
 date = 2026-05-27
 +++
 
