@@ -15,7 +15,7 @@ If you do that btw, all that will happen is whatever you create will be indistin
 
 I'm aware that this idea isn't exactly something new, you've probably heard about it before in some other shape or form. I *do* think we all need an occasional reminder because sometimes the siren call lures us in and we end up in some weird psychotic delusion. 
 
-I'm always thinking about this little bit from [ari](https://ari.lt/faq) in her faq; 
+I'm always thinking about this little bit from [ari](https://ari.lt/faq#eb22cfb615c6e5170d11) in her faq; 
 
 > *How can I get people to visit my website or optimise "SEO"?*
 >
