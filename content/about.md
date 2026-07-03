@@ -13,6 +13,7 @@ Here's a list of topics that interest me, which you'll probably see me writing a
 - internet & technology
 - artistry & creativity
 - epistemology, perspective, inner workings of the mind
+- stories, poetry
 
 My favorite anime in no particular order is; girls last tour, frieren, a silent voice, eighty six, girls band cry, vivy: flourite eye's song, and summertime rendering. If you happen to know and love any of these, consider being my friend ;)
 
