@@ -2,9 +2,9 @@
 title = "about me"
 +++
 
-hey there, I'm makoro (you also might know me as onoruu).
+Hey there, I'm makoro (you also might know me as onoruu).
 
-currently I am a wannabe programmer, wannabe writer, and linux nerd (more on that later). 
+Currently I am a wannabe programmer, wannabe writer, and linux nerd (more on that later). 
 
 Here's a list of topics that interest me, which you'll probably see me writing about:
 - philosophy
@@ -33,4 +33,6 @@ I also love vrchat. I use WiVRn on linux to stream from my pc to my headset.
 
 . . . 
 
-you can email me at (x3roo [at] proton.me), and you can find my github [here](https://github.com/r3quisitevariety). additionally, you can reach out to me on discord @onoruuu. I tend to be more active on discord.
+You can email me at (x3roo [at] proton.me), and you can find my github [here](https://github.com/r3quisitevariety). Additionally, you can reach out to me on discord @onoruuu. I tend to be more active on discord.
+
+If you are curious about the website, it was made using [zola](https://www.getzola.org/). I have a github action which generates the site on git push and ships it to neocities via the api.
