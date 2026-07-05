@@ -3,33 +3,14 @@
 {# the "section." option allows for blog post pages to be listed sequentially - thats what this file is for! #}
 
 {% block content %}
-<style>
-    .post-date {
-        display: block;
-        font-size: 0.8rem;
-        color: #888;
-        margin-bottom: 0.25rem;
-    }
-    .post-title {
-        font-size: 1.25rem;
-    }
-    li {
-        list-style: none;
-        margin-bottom: 1.5rem;
-    }
-</style>
 <h1 class="title">{{ section.title }}</h1>
 
 <p><a href="{{ get_url(path="rss.xml", trailing_slash=false) }}">RSS</a></p>
-
 <ul>
     <!-- If you are using pagination, section.pages will be empty.
            You need to use the paginator object -->
     {% for page in section.pages %}
-    <li>
-        <time class="post-date" datetime="{{ page.date }}">{{ page.date | date(format="%b %-d, %Y") }}</time>
-        <a class="post-title" href="{{ page.permalink | safe }}">{{ page.title }}</a>
-    </li>
+    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
     {% endfor %}
 </ul>
 {% endblock content %}
