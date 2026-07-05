@@ -15,9 +15,13 @@ Here's a list of topics that interest me, which you'll probably see me writing a
 - epistemology, perspective, inner workings of the mind
 - stories, poetry
 
-My favorite anime in no particular order is; girls last tour, frieren, a silent voice, eighty six, girls band cry, vivy: flourite eye's song, and summertime rendering. If you happen to know and love any of these, consider being my friend ;)
+My favorite anime in no particular order is; girls last tour, frieren, a silent voice, eighty six, girls band cry, vivy: flourite eye's song, and summertime rendering. 
 
-Additionally, my favorite musician of all time is porter robinson. 
+My favorite games are Z.A.T.O // I Love the World and Everything In It, Katawa Shoujo, and Saya no Uta. 
+
+If you happen to know and love any of these, consider being my friend ;)
+
+Additionally, my favorite musician of all time is Porter Robinson. 
 
 . . .
 
