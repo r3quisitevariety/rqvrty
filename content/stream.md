@@ -5,6 +5,25 @@ a chronological stream of quotes, excerpts, or snippets that have proved to be p
 
 . . . 
 
+### July 7, 2026
+>The wise are not conspicuous in their actions
+>
+> Or given to much talking.
+>
+> When troubles arise, they are not irritated.
+>
+> They produce, but do not hoard;
+>
+> They act, but expect no praise;
+>
+> They build, but do not dwell therein.
+>
+> And because they do not dwell therein,
+>
+> They never depart.
+>
+> *— Lao Tzu*
+
 ### July 6, 2026
 
 >Keep walking, though there’s no place to get to.
