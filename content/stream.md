@@ -23,9 +23,10 @@ a chronological stream of quotes, excerpts, or snippets that have proved to be p
 >
 >They produce, but do not hoard; \
 >They act, but expect no praise; \
->They build, but do not dwell therein. \
+>They build, but do not dwell therein. 
+>
 >And because they do not dwell therein, \
->They never depart."
+>They never depart.
 >
 >*— Lao Tzu*
 
