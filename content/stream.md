@@ -5,6 +5,9 @@ a chronological stream of quotes, excerpts, or snippets that have proved to be p
 
 . . . 
 
+### July 20, 2026, 1:12 PM
+[this](https://www.youtube.com/watch?v=nCiJ8MMQCxM) is probably my favorite song from night tapes. 
+
 ### July 19, 2026, 8:57 PM
 > Wind extinguishes a candle and energizes fire.\
 > Likewise with randomness, uncertainty, chaos: you want to use them, not hide from them.\
