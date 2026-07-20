@@ -5,6 +5,25 @@ a chronological stream of quotes, excerpts, or snippets that have proved to be p
 
 . . . 
 
+### July 19, 2026, 8:57 PM
+> Wind extinguishes a candle and energizes fire.\
+> Likewise with randomness, uncertainty, chaos: you want to use them, not hide from them.\
+> You want to be the fire and wish for the wind.
+> 
+> This summarizes this author's nonmeek attitude to randomness and uncertainty.
+>
+> We don't want to just survive uncertainty, to just about make it.\
+> We want to survive uncertainty and, in addition—like a certain class of aggressive Roman Stoics—have the last word. The mission is how to domesticate, even dominate, even conquer, the unseen, the opaque, and the inexplicable.
+>
+>How?
+>
+> *— Nassim Nicholas Taleb, 'Antifragile'*
+
+### July 19, 2026, 8:34 PM
+> "Fresh Static Snow to me, is about this idea that I was really obsessed with my loneliness. About this idea that there necessarily exists a best, romantic partner for every person in the world, somewhere out there. There are billions of people out there and you will only meet a fraction of them, and to me the likelihood that you’ll ever meet a person that will make you that happy is infinitesimal. There’s a very small chance. If you really consider the idea that, that person is out there, exists and is walking, eating their breakfast cereal, looking all cute. And the notion that you will never know each other, made me really sad. And this song was me dedicating something to whoever that person is. Maybe they’ll hear it, how fucking cool will that be?"
+>
+> *— Porter Robinson*
+
 ### July 11, 2026, 11:58 PM
 
 >I think having your own room should be a human right. I didn’t have my own room until I was 16 & once I had one, I became more productive creatively. not only could I just be with myself, but I could project my inner world to my outer world in an immediate way. to play/practice music in your room – what a dream.
@@ -44,7 +63,7 @@ a chronological stream of quotes, excerpts, or snippets that have proved to be p
 >And because they do not dwell therein, \
 >They never depart.
 >
->*— Lao Tzu*
+>*— Lao Tzu, 'Tao te Ching'*
 
 ### July 6, 2026, ?:?? PM
 >Keep walking, though there’s no place to get to. \
